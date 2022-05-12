@@ -25,4 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Can you simplify your code?
+- Can you make any parts reusable?
+- How are you handling edge cases?
+- Are your functions or classes too big?
+- How readable is it? Do you need comments?
+- Is it consistent with the rest of the code base?
 -->
