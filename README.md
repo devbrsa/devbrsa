@@ -1,18 +1,12 @@
 ### Utilities
  - https://github.com/madelson/DistributedLock - Distributed Lock
 ### Frameworks
-
 ### VS Extensions
-
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
-
 ### Samples
-
 ### Patterns
-
 ### Recipes
-
 ### Algorithms
 
 
