@@ -8,6 +8,7 @@
 ### Patterns
 ### Recipes
 ### Algorithms
+- https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
 
 
 
