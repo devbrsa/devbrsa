@@ -1,4 +1,21 @@
-### Hi there 👋
+### Utilities
+ - https://github.com/madelson/DistributedLock - Distributed Lock
+### Frameworks
+
+### VS Extensions
+
+- https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
+- https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
+
+### Samples
+
+### Patterns
+
+### Recipes
+
+### Algorithms
+
+
 
 <!--
 **devbrsa/devbrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
