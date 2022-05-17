@@ -7,6 +7,7 @@
 ### Samples
 ### Patterns
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
+- https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
 ### Recipes
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
