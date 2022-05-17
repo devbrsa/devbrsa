@@ -6,7 +6,7 @@
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
 ### Samples
 ### Patterns
-- https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for humans by Ardalis
+- https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 ### Recipes
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
