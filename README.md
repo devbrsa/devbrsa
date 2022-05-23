@@ -9,6 +9,7 @@
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 - https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
 ### Recipes
+- https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
 
