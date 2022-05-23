@@ -12,6 +12,8 @@
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
+### Templates
+- https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture .NET 6
 
 
 
