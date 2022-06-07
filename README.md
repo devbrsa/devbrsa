@@ -5,9 +5,11 @@
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
 ### Samples
+- https://github.com/AdrienTorris/awesome-blazor - Awesome Blazor
 ### Patterns
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 - https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
+- https://github.com/Daniel-Miller/Timeline - A fast, lightweight implementation of the CQRS+ES 
 ### Recipes
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
 ### Algorithms
