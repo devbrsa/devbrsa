@@ -1,5 +1,6 @@
 ### Utilities
  - https://github.com/madelson/DistributedLock - Distributed Lock
+ - https://github.com/andrewlock/NetEscapades.EnumGenerators - Fast EnumGenerator
 ### Frameworks
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
