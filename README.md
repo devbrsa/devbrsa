@@ -13,6 +13,7 @@
 - https://github.com/Daniel-Miller/Timeline - A fast, lightweight implementation of the CQRS+ES 
 ### Recipes
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
+- - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - Async await best practices
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
 ### Templates
