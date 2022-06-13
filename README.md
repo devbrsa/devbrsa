@@ -7,6 +7,7 @@
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
 ### Samples
 - https://github.com/AdrienTorris/awesome-blazor - Awesome Blazor
+- https://github.com/meysamhadeli/booking-microservices-sample - Booking Microservice sample
 ### Patterns
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 - https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
