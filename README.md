@@ -1,6 +1,7 @@
 ### Utilities
  - https://github.com/madelson/DistributedLock - Distributed Lock
  - https://github.com/andrewlock/NetEscapades.EnumGenerators - Fast EnumGenerator
+ - https://github.com/maxkagamine/Moq.Contrib.HttpClient - Mocking HttpClient
 ### Frameworks
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
@@ -14,7 +15,7 @@
 - https://github.com/Daniel-Miller/Timeline - A fast, lightweight implementation of the CQRS+ES 
 ### Recipes
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
-- - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - Async await best practices
+- https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - Async await best practices
 ### Algorithms
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
 ### Templates
