@@ -2,6 +2,7 @@
  - https://github.com/madelson/DistributedLock - Distributed Lock
  - https://github.com/andrewlock/NetEscapades.EnumGenerators - Fast EnumGenerator
  - https://github.com/maxkagamine/Moq.Contrib.HttpClient - Mocking HttpClient
+ - https://github.com/louthy/language-ext - C# Functional Programming Extensions
 ### Frameworks
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
