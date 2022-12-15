@@ -4,6 +4,7 @@
  - https://github.com/maxkagamine/Moq.Contrib.HttpClient - Mocking HttpClient
  - https://github.com/louthy/language-ext - C# Functional Programming Extensions
  - https://github.com/lmammino/jwt-cracker - JWT Cracker
+ - https://github.com/npryce/adr-tools - ADR Tools
 ### Frameworks
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
