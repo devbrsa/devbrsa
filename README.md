@@ -5,8 +5,9 @@
  - https://github.com/louthy/language-ext - C# Functional Programming Extensions
  - https://github.com/lmammino/jwt-cracker - JWT Cracker
  - https://github.com/npryce/adr-tools - ADR Tools
-- https://github.com/grafana/k6 - Load Testing tool
-### Frameworks
+ - https://github.com/grafana/k6 - Load Testing tool
+### Frameworks/Extensions
+ - https://github.com/morelinq/MoreLINQ - MoreLINQ
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
