@@ -5,7 +5,6 @@
  - https://github.com/louthy/language-ext - C# Functional Programming Extensions
  - https://github.com/lmammino/jwt-cracker - JWT Cracker
  - https://github.com/npryce/adr-tools - ADR Tools
-###
 - https://github.com/grafana/k6 - Load Testing tool
 ### Frameworks
 ### VS Extensions
