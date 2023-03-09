@@ -8,6 +8,7 @@
  - https://github.com/grafana/k6 - Load Testing tool
  - https://github.com/nodatime/nodatime - DateTime API
  - https://github.com/dotnetcore/EasyCaching - Caching
+ - https://github.com/ardalis/Specification - Specification Pattern library (Ardalis)
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
 ### VS Extensions
