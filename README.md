@@ -8,7 +8,6 @@
  - https://github.com/grafana/k6 - Load Testing tool
  - https://github.com/nodatime/nodatime - DateTime API
  - https://github.com/dotnetcore/EasyCaching - Caching
- - https://github.com/ardalis/Specification - Specification Pattern library (Ardalis)
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
 ### VS Extensions
@@ -21,6 +20,7 @@
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 - https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
 - https://github.com/Daniel-Miller/Timeline - A fast, lightweight implementation of the CQRS+ES 
+ - https://github.com/ardalis/Specification - Specification Pattern library (Ardalis)
 ### Recipes
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
 - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - Async await best practices
