@@ -10,6 +10,7 @@
  - https://github.com/dotnetcore/EasyCaching - Caching
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
+ - https://github.com/openiddict - OpenIddict
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
