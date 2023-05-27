@@ -30,6 +30,9 @@
 ### Templates
 - https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture .NET 6
 
+### Posts
+https://hashnode.devindran.com/how-to-improve-memory-allocation-when-creating-httpcontent
+
 https://source.dot.net/
 
 <!--
