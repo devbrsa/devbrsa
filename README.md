@@ -29,6 +29,8 @@
 - https://project-awesome.org/tayllan/awesome-algorithms#websites - Awesome Algorithms
 ### Templates
 - https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture .NET 6
+- https://github.com/baratgabor/MyWarehouse - CQRS Example
+- https://github.com/ardalis/cleanarchitecture - Clean Architecture - Ardalis
 
 ### Posts
 https://hashnode.devindran.com/how-to-improve-memory-allocation-when-creating-httpcontent
