@@ -23,7 +23,8 @@
 - https://github.com/kamranahmedse/design-patterns-for-humans#-simple-factory - Design Patterns for Humans
 - https://github.com/oskardudycz/EventSourcing.NetCore - Event Sourcing guide
 - https://github.com/Daniel-Miller/Timeline - A fast, lightweight implementation of the CQRS+ES 
- - https://github.com/ardalis/Specification - Specification Pattern library (Ardalis)
+- https://github.com/ardalis/Specification - Specification Pattern library (Ardalis)
+- https://github.com/milanm/DesignPatternsInUse - Design Patterns (*)
 ### Recipes
 - https://linkdotnet.github.io/tips-and-tricks/ - Tips and Tricks by linkdotnet
 - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - Async await best practices
