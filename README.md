@@ -9,7 +9,8 @@
  - https://github.com/nodatime/nodatime - DateTime API
  - https://github.com/dotnetcore/EasyCaching - Caching
  - https://github.com/WireMock-Net/WireMock.Net - HTTP Mocking
- - https://github.com/Humanizr/Humanizer - 
+ - https://github.com/Humanizr/Humanizer -
+ - https://github.com/Splode/pomotroid - Pomodoro
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
  - https://github.com/openiddict - OpenIddict
