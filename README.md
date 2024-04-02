@@ -11,6 +11,7 @@
  - https://github.com/WireMock-Net/WireMock.Net - HTTP Mocking
  - https://github.com/Humanizr/Humanizer -
  - https://github.com/Splode/pomotroid - Pomodoro
+ - https://github.com/jesseduffield/lazygit - LazyGit
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
  - https://github.com/openiddict - OpenIddict
