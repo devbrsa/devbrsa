@@ -36,6 +36,8 @@
 - https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture .NET 6
 - https://github.com/baratgabor/MyWarehouse - CQRS Example
 - https://github.com/ardalis/cleanarchitecture - Clean Architecture - Ardalis
+- https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture
+- https://github.com/amantinband/clean-architecture - Clean Architecture
 
 ### Posts
 https://hashnode.devindran.com/how-to-improve-memory-allocation-when-creating-httpcontent
