@@ -15,6 +15,7 @@
 ### Frameworks/Extensions
  - https://github.com/morelinq/MoreLINQ - MoreLINQ
  - https://github.com/openiddict - OpenIddict
+ - https://github.com/CarterCommunity/Carter - ASP.NET Core extensions
 ### VS Extensions
 - https://github.com/guudan/Vs-AddMultipleProjectsToSolution - Add Multiple Projects to Solution
 - https://github.com/newky2k/VersionChangerAddin - csproj Version Changer
