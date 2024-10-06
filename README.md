@@ -39,6 +39,7 @@
 - https://github.com/ardalis/cleanarchitecture - Clean Architecture - Ardalis
 - https://github.com/jasontaylordev/CleanArchitecture - Clean Architecture
 - https://github.com/amantinband/clean-architecture - Clean Architecture
+- https://github.com/jonowilliams26/StructuredMinimalApi - Structured Minimal Api
 
 ### Posts
 https://hashnode.devindran.com/how-to-improve-memory-allocation-when-creating-httpcontent
